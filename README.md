@@ -1,4 +1,4 @@
-# H<sub>0</sub> - Tension and Simple Phantom Dark Energy: Exploiting Cosmological Parameter Degeneracies
+# H<sub>0</sub> Tension, Phantom Dark Energy and Cosmological Parameter Degeneracies
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 ![Total visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=GeorgeAlestas.H0_Tension_Data)
@@ -15,7 +15,7 @@ Dark energy with equation of state parameter ![$w < -1$](https://render.githubus
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*H<sub>0</sub> - Tension and Simple Phantom Dark Energy: Exploiting Cosmological Parameter Degeneracies*
+<br>*H<sub>0</sub> Tension, Phantom Dark Energy and Cosmological Parameter Degeneracies*
 <br>George Alestas, Lavrentios Kazantzidis and Leandros Perivolaropoulos, [arxiv:2004.02155](https://arxiv.org/pdf/2004.02155.pdf)
 
 Any further questions/comments are welcome
