@@ -15,8 +15,8 @@ Dark energy with equation of state parameter ![$w < -1$](https://render.githubus
 
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
-<br>*Hints of a Local Matter Underdensity or Modified Gravity in the Low z Pantheon data.*
-<br>Lavrentios Kazantzidis and Leandros Perivolaropoulos, [arxiv:2004.02155](https://arxiv.org/pdf/2004.02155.pdf)
+<br>*H<sub>0</sub> - Tension and Simple Phantom Dark Energy: Exploiting Cosmological Parameter Degeneracies*
+<br>,George Alestas, Lavrentios Kazantzidis and Leandros Perivolaropoulos, [arxiv:2004.02155](https://arxiv.org/pdf/2004.02155.pdf)
 
 Any further questions/comments are welcome
 
