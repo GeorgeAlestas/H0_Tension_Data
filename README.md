@@ -1,7 +1,7 @@
 # H<sub>0</sub> - Tension and Simple Phantom Dark Energy: Exploiting Cosmological Parameter Degeneracies
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
-![Total visitors](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=GeorgeAlestas.H0_Tension_Data)
+![Total visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=GeorgeAlestas.H0_Tension_Data)
 
 <p align="center">
 <img src="preview.png" width="900" title="preview" />
