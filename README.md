@@ -16,7 +16,7 @@ If you use any of the above codes or the figures in a published work please cite
 <br>*H<sub>0</sub> Tension, Phantom Dark Energy and Cosmological Parameter Degeneracies*
 <br>George Alestas, Lavrentios Kazantzidis and Leandros Perivolaropoulos
 
-Any further questions/comments are welcome
+Any further questions/comments are welcome.
 
 
 ## Authors List
