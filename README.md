@@ -1,7 +1,6 @@
 # H<sub>0</sub> Tension, Phantom Dark Energy and Cosmological Parameter Degeneracies
 
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
-![Total visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=GeorgeAlestas.H0_Tension_Data)
 
 <p align="center">
 <img src="preview.png" width="900" title="preview" />
